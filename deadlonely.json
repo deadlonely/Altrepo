@@ -1,59 +1,20 @@
 {
   "name": "deadlonely",
-  "subtitle": "cheats and apps",
-  "description": "",
-  "iconURL": "https://avatars.githubusercontent.com/u/250387405?s=400&u=9e0aec13cb369e8dadc5f84d4f625b2b6558d108&v=4",
+  "identifier": "net.deadlonely.altrepo",
+  "iconURL": "https://avatars.githubusercontent.com/u/250387405?s=400",
   "website": "https://github.com/deadlonely",
-  "patreonURL": "",
-  "tintColor": "#1400ff",
-  "featuredApps": [],
-  "headerURL": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8507a785836409.5d884b6e92f33.png",
   "apps": [
     {
       "name": "Leontap",
       "bundleIdentifier": "com.apple.Leontap",
-      "marketplaceID": "",
-      "developerName": "Example Developer",
-      "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "developerName": "deadlonely",
+      "version": "1.0",
+      "versionDate": "2026-01-11",
+      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/LeonTap/Leontap-1.ipa",
+      "localizedDescription": "Leontap application",
       "iconURL": "https://i.imgur.com/pv2CbSR.png",
-      "tintColor": "#194ce5",
-      "category": "other",
-      "screenshots": [],
-      "versions": [
-        {
-          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/IPAS/LeonTap/Leontap-1.ipa",
-          "size": 27900000,
-          "version": "1.0",
-          "buildVersion": "1",
-          "date": "2026-01-11T11:27:00+03:00",
-          "localizedDescription": "bug fix.",
-          "minOSVersion": "16.0"
-        }
-      ],
-      "appPermissions": {
-        "entitlements": [
-          ""
-        ],
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Custom application icon",
-          "NSPrincipalClass": "HUDMainApplication"
-        }
-      },
-      "patreon": {}
-    }
-  ],
-  "news": [
-    {
-      "title": "New Repo by .deadlonely",
-      "identifier": "news_6zqcz8r45f",
-      "caption": "Introducing a new feature in AltStore!",
-      "date": "2026-01-11T13:47",
-      "tintColor": "#1400ff",
-      "imageURL": "https://avatars.githubusercontent.com/u/250387405?s=400&u=9e0aec13cb369e8dadc5f84d4f625b2b6558d108&v=4",
-      "notify": true,
-      "url": "",
-      "appID": "com.apple.Leontap"
+      "size": 27900000,
+      "minOSVersion": "16.0"
     }
   ]
 }
