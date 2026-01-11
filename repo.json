@@ -16,5 +16,17 @@
       "size": 27900000,
       "minOSVersion": "16.0"
     }
+  ],
+  "news": [
+    {
+      "title": "Leontap released",
+      "identifier": "news_leontap_1",
+      "caption": "First public release is now available",
+      "date": "2026-01-11T13:47:00+03:00",
+      "tintColor": "#1400ff",
+      "imageURL": "https://i.imgur.com/pv2CbSR.png",
+      "notify": true,
+      "appID": "com.apple.Leontap"
+    }
   ]
 }
