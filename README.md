@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://pin.it/4PtFtrX4s" width="120" style="border-radius:50%;" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deadlonely/Altrepo/main/assets/altrepo-logo.png" width="420" />
-</p>
+<h1 align="center">Altrepo</h1>
 
 <p align="center">
   <i>lonely apps · silent tweaks · clean repo</i>
@@ -24,53 +18,37 @@
 
 ---
 
-## 🕷️ О репозитории
+## 🕷️ About
 
-**Altrepo** — альтернативный репозиторий приложений для **SideStore**.  
-Создан без мусора, без копий и без хаоса.
-
-> тишина  
-> контроль  
-> одиночество  
+**Altrepo** — minimalistic app repository for **SideStore**.  
+No noise. No clones. Only what works.
 
 ---
 
-## 📦 Содержимое
+## 📦 Content
 
-- 🖤 Tweaked приложения (TikTok++, utils)
-- 🎮 Игры (Minecraft, Terraria, Geometry Dash)
-- 🧩 Полезные утилиты
-- ⚡ Быстрые и чистые обновления
+- Tweaked apps  
+- Games  
+- Utilities  
+- Fast updates  
 
-Каждый IPA:
-- проверяется  
-- не содержит лишней рекламы  
-- готов к установке через SideStore  
+All IPA files are checked before publishing.
 
 ---
 
-## 🖼️ Превью
+## ➕ Add to SideStore
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deadlonely/Altrepo/main/assets/preview1.png" width="240" />
-  <img src="https://raw.githubusercontent.com/deadlonely/Altrepo/main/assets/preview2.png" width="240" />
-</p>
+### 📲 One tap (iOS)
+Tap **Add to SideStore** above  
+(opens SideStore automatically)
 
----
-
-## ➕ Как добавить репозиторий
-
-### 📲 Автоматически (рекомендуется)
-Нажми кнопку **Add to SideStore** выше  
-(работает с iPhone / iPad)
-
-### 🛠 Вручную
-1. Открой **SideStore**
+### 🛠 Manual
+1. Open **SideStore**
 2. Sources → Add Source
-3. Вставь: https://raw.githubusercontent.com/deadlonely/Altrepo/main/repo.json
+3. Paste: https://raw.githubusercontent.com/deadlonely/Altrepo/main/repo.json
 ---
 
-## 🩸 Автор
+## 🩸 Author
 
 - GitHub: [deadlonely](https://github.com/deadlonely)
 
