@@ -5,28 +5,74 @@
   "website": "https://github.com/deadlonely",
   "apps": [
     {
-      "name": "Leontap",
-      "bundleIdentifier": "com.apple.Leontap",
+      "name": "TikTok++",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "deadlonely",
-      "version": "1.0",
+      "version": "41.4.0",
       "versionDate": "2026-01-11",
-      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/LeonTap/Leontap-1.ipa",
-      "localizedDescription": "Leontap application",
-      "iconURL": "https://i.imgur.com/pv2CbSR.png",
-      "size": 27900000,
-      "minOSVersion": "16.0"
-    }
-  ],
-  "news": [
+      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/TikTokTikTok.ipa",
+      "localizedDescription": "TikTok without ads and with extra features",
+      "iconURL": "https://i.imgur.com/PWIM8X4.png",
+      "size": 315600000,
+      "minOSVersion": "12.0"
+    },
     {
-      "title": "Leontap released",
-      "identifier": "news_leontap_1",
-      "caption": "First public release is now available",
-      "date": "2026-01-11T13:47:00+03:00",
-      "tintColor": "#1400ff",
-      "imageURL": "https://i.imgur.com/pv2CbSR.png",
-      "notify": true,
-      "appID": "com.apple.Leontap"
+      "name": "Geometry Dash",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "developerName": "RobTop",
+      "version": "2.207",
+      "versionDate": "2026-01-11",
+      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Geometry-Dash-v2-207.ipa",
+      "localizedDescription": "Rhythm-based platformer",
+      "iconURL": "https://i.imgur.com/D9JjljH.png",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/QPS_wlJHQgy3G6KgWAcjjoXKOWJURujcw0LK70mzqBOCtFxoz0LSscWgoy0IYH97Dg=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/sq0hNhqNiuA6j0JW5nMOQCv_wJ6XBq1KpeMNkPN6TsGrrYNsaPrfZ-GiOkk1ap4SqBDA=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/ys1QONuCD-Cn20E7qy03rrBAM5UE-PIUKnosWxYkJGnj2LROYAJ_5KZVv22UEKAbRDk=w526-h296-rw"
+      ],
+      "size": 159200000
+    },
+    {
+      "name": "СберБанк Онлайн",
+      "bundleIdentifier": "com.digit.budg",
+      "developerName": "PAO SBERBANK",
+      "version": "17.0.0",
+      "versionDate": "2026-01-11",
+      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Online-17.0.0.ipa",
+      "localizedDescription": "СберБанк Онлайн official app",
+      "iconURL": "https://i.imgur.com/1SZGFLK.png",
+      "size": 294100000,
+      "minOSVersion": "12.0"
+    },
+    {
+      "name": "Terraria",
+      "bundleIdentifier": "com.505games.terraria",
+      "developerName": "505 Games",
+      "version": "1.4.4.14",
+      "versionDate": "2026-01-11",
+      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Terraria-v4-4-14.ipa",
+      "localizedDescription": "Sandbox adventure game",
+      "iconURL": "https://i.imgur.com/JoaI9N4.png",
+      "screenshots": [
+        "https://play-lh.googleusercontent.com/O-Dr8ayJoCl8vELdlrdzTJqIupxNj-zsJq7-gu19A1nr3y-Zw4BkWhZhCNAjL-RaxQ=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/VAxJd3C0F94AfzNtwtE6SJK7bMgJDIRn8uSdFiGMRDrrmmdJuLKMUMUU5-WuD3eoZWM=w526-h296-rw"
+      ],
+      "size": 160100000
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "developerName": "Mojang",
+      "version": "1.21.120",
+      "versionDate": "2026-01-11",
+      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Minecraft_v1.21.120_iosvizor_.ipa",
+      "localizedDescription": "Minecraft Bedrock Edition",
+      "iconURL": "https://i.imgur.com/cy2D3Dg.png",
+      "screenshots": [
+        "https://img.ipa4fun.com/88/c5/88/479516143-screenshot-1.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/9a/1b/bb9a1b9c-3727-2e06-ae5a-6cf5ec4fd8f4/pr_source.png/2048x0w.jpg"
+      ],
+      "size": 594800000
     }
   ]
 }
