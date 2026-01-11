@@ -1,0 +1,344 @@
+{
+  "name": "deadlonely",
+  "subtitle": "Games and Bank apps [Rus]",
+  "description": "just a dev who want to help russian.",
+  "iconURL": "https://avatars.githubusercontent.com/u/250387405?s=400&u=9e0aec13cb369e8dadc5f84d4f625b2b6558d108&v=4",
+  "website": "https://github.com/deadlonely",
+  "patreonURL": "https://www.patreon.com/ru-RU",
+  "tintColor": "#1400ff",
+  "featuredApps": [
+    "com.mojang.minecraftpe",
+    "com.505games.terraria",
+    "com.digit.budg",
+    "com.robtop.geometryjump",
+    "com.zhiliaoapp.musically"
+  ],
+  "headerURL": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8507a785836409.5d884b6e92f33.png",
+  "apps": [
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Tiktok++",
+      "localizedDescription": "Без рекламы\nСкачивайте видео\nСкачивайте музыку\nПоказать/скрыть кнопку пользовательского интерфейса\nКопируйте описание видео\nКопируйте ссылку на видео\nКопируйте ссылку на музыку\nАвтоматическое воспроизведение следующего видео\nПоказать индикатор выполнения\nПодтверждение лайка\nПодтверждение лайка комментария\nПодтвердите дизлайка к комментарию\nПодтверждение подписки\nСкачивание изображения профиля\nКопирование информации профиля\nРасширение био\nРасширение комментария\nВсегда открыывать в Safari\nИзменение региона\nФейковая галочка верификации\nФейковое количество подписчиков\nФейковое количество ваших подписок\nБлокировка кодом",
+      "iconURL": "https://i.imgur.com/PWIM8X4.png",
+      "tintColor": "#7f7f7f",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/IPAS/TikTokTikTok.ipa",
+          "size": 315600000,
+          "version": "41.4.0",
+          "buildVersion": null,
+          "date": "2026-01-11T15:44:00+03:00",
+          "localizedDescription": "bug fixes",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSAppleMusicUsageDescription": "To select sound from your library, allow us to access your Apple Music.",
+          "NSBluetoothAlwaysUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSBluetoothPeripheralUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSCalendarsUsageDescription": "Add events to your device calendar to get reminders when events start.",
+          "NSCameraUsageDescription": "You'll be able to record video.",
+          "NSContactsUsageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends.",
+          "NSFaceIDUsageDescription": "We'll use this to unlock features that require added security.",
+          "NSLocalNetworkUsageDescription": "The TikTok app will be able to discover and connect with devices that have the TikTok app installed for camera and screen sharing.",
+          "NSLocationWhenInUseUsageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience.",
+          "NSMicrophoneUsageDescription": "To record audio, allow us to access your Microphone.",
+          "NSPhotoLibraryAddUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSPhotoLibraryUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSUserTrackingUsageDescription": "This allows TikTok to provide you with a better ads experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GeometryDash",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "marketplaceID": "",
+      "developerName": "RobTop",
+      "subtitle": "Geometry Dash",
+      "localizedDescription": "Прыгайте и летите сквозь опасности в этом ритмичном платформере!\n\nПриготовьтесь к почти невыполнимому испытанию в мире Geometry Dash. Прокачайте свои навыки до предела, прыгая, летая и переворачиваясь, прокладывая себе путь через опасные проходы и острые препятствия.\n\nПростая игра в одно касание с множеством уровней, которая будет развлекать вас часами!\n\nОсобенности игры\n\n• Ритмичный платформер!\n\n• Множество уровней с уникальными саундтреками!\n\n• Создавайте и делитесь своими собственными уровнями с помощью редактора уровней!\n\n• Разблокируйте новые значки и цвета, чтобы настроить своего персонажа!\n\n• Летайте на ракетах, меняйте гравитацию и многое другое!\n\n• Используйте режим практики, чтобы отточить свои навыки!\n\n• Множество достижений и наград!\n\n• Никаких покупок внутри приложения!\n\n• Испытайте себя в почти невозможном!\n\nКонтакты: support@robtopgames.com",
+      "iconURL": "https://i.imgur.com/D9JjljH.png",
+      "tintColor": "#fbcd05",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/QPS_wlJHQgy3G6KgWAcjjoXKOWJURujcw0LK70mzqBOCtFxoz0LSscWgoy0IYH97Dg=w526-h296-rw",
+          "width": 444,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/sq0hNhqNiuA6j0JW5nMOQCv_wJ6XBq1KpeMNkPN6TsGrrYNsaPrfZ-GiOkk1ap4SqBDA=w526-h296-rw",
+          "width": 444,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/ys1QONuCD-Cn20E7qy03rrBAM5UE-PIUKnosWxYkJGnj2LROYAJ_5KZVv22UEKAbRDk=w526-h296-rw",
+          "width": 444,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/WC1ktmQTv49vSOYNNoscsE0Q14djF1ifRDLc-Eacidzq-mtzkyBRgMbIzmC6TcqxasI=w526-h296-rw",
+          "width": 444,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/jeXVA_HnpbOiffYUUMvFpfVKA2DTMPCDtGejF4CGB4IRw3PoYi9n_O7H45h3mu5_iQ=w526-h296-rw",
+          "width": 444,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/er0-hnwfHoAx8PsU4ARsONOogw45KnYP3oxayWdwQOXfo6le8XlGBATnInvXs5r78c8=w526-h296-rw",
+          "width": 444,
+          "height": 296
+        }
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/IPAS/Geometry-Dash-v2-207.ipa",
+          "size": 159200000,
+          "version": "2.207",
+          "buildVersion": null,
+          "date": "2026-01-11T15:37:00+03:00",
+          "localizedDescription": "bug fixes!",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "СберБанк Онлайн",
+      "bundleIdentifier": "com.digit.budg",
+      "marketplaceID": "",
+      "developerName": "PAO SBERBANK",
+      "subtitle": "СберБанк Онлайн",
+      "localizedDescription": "СберБанк Онлайн — самое востребованное банковское приложение в России: им пользуются больше 80 млн человек. Присоединяйтесь!\n\nЧто у нас можно:\n\n・Переводить деньги людям. Есть классические переводы по номеру телефона, карты и любым реквизитам, а есть Диалоги: там можно выбрать клиента Сбера из телефонной книги и переводить ему деньги в пару нажатий, писать сообщения или отправлять стикеры, как в мессенджере.\n\n・Оплачивать услуги за минуту. Пополняйте баланс телефона и интернета без комиссии, а чтобы случайно не забыть, подключите автоплатёж. Оплачивать ЖКХ, парковку, налоги и штрафы можно по реквизитам, а ещё сканировать QR-код на квитанции или выбрать организацию в поиске.\n\n・Оформить карту. Активируйте её в приложении за пару минут и пользуйтесь, даже если пока не получили пластик. Вы сможете смотреть актуальный баланс, перевыпустить или заблокировать карту, узнать её номер или сменить ПИН-код. В некоторых крупных городах есть и курьерская доставка карт.\n\n・Копить деньги. В этом поможет наша линейка вкладов и счетов: со снятием и пополнением или без, в рублях и валюте. Если нужно накопить на отпуск или подушку безопасности, идеально подойдет цель. А для тех, кто думает о будущем на годы вперёд, предлагаем откладывать на пенсию в негосударственный фонд.\n\n・Взять кредит. Хотите узнать, сколько банк может вам предложить — рассчитайте свой кредитный потенциал. Мы оформляем кредитные карты, даём деньги на любые цели и небольшие суммы до зарплаты. Из СберБанк Онлайн также можно перейти в приложения партнёров, чтобы взять ипотеку или автокредит.\n\n・Следить за расходами и планировать бюджет. Анализ финансов вам понравится, если хотите подходить к деньгам более осознанно: вы можете разбить расходы по категориям и стараться не тратить лишнего. Ещё свои операции можно смотреть в Истории и получать о них уведомления.\n\n・Узнать, сколько у вас бонусов СберСпасибо. И конечно, о том, где и как выгодно обменять их на скидку.\n\n・Получать госуслуги. У нас вы можете подтвердить учётную запись на Госуслугах и никуда не ходить, заказать справку 2-НДФЛ или выписку из Пенсионного фонда, стать самозанятым и получить страховую выплату по вкладу.\n\n・Открыть для себя много разных сервисов для жизни: от страховок и отправки посылок до еды с доставкой, аренды авто и онлайн-медицины.\n\n・Настроить приложение под себя. У нас есть несколько приятных возможностей: выбирайте между светлой и тёмной темой, разными цветами фона и заставками на входе, которые мы сами так любим.\n\n・А ещё всё это вы можете сделать через наших виртуальных ассистентов Салют: они не только переведут деньги или подскажут курс доллара, но даже включат музыку или запишут на стрижку. Очень удобно, если у вас часто заняты руки или просто любите поболтать.\n______\n\n© 1997—2025 ПАО Сбербанк\nРоссия, Москва, 117997, ул. Вавилова 19\nГенеральная лицензия на осуществление банковских операций от 11 августа 2015 года\nРегистрационный номер — 1481.",
+      "iconURL": "https://i.imgur.com/1SZGFLK.png",
+      "tintColor": "#44cc84",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/IPAS/Online-17.0.0.ipa",
+          "size": 294100000,
+          "version": "17.0.0",
+          "buildVersion": null,
+          "date": "2026-01-11T15:40:00+03:00",
+          "localizedDescription": "Оплата телефоном ВЖУХ теперь доступна на Android - для устройств без NFC или если нет карты МИР.\n\nЗаявку на ипотечные каникулы и необходимые документы можно подать не только в офисе банка, но и в приложении. Новая услуга в разделе «Финансовые трудности» на экране «Кредиты».\n\nПо программе «Защита квартиры» можно застраховать квартиру, апартаменты или таунхаус на сумму до 50 млн рублей. Оценка жилья проводится сервисом «ДомКлик» с учётом действующих полисов.\n\nДо встречи в 2026!",
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "To discover and connect to devices",
+          "NSCalendarsUsageDescription": "To automatically add events to the calendar",
+          "NSCameraUsageDescription": "For photographing receipts",
+          "NSContactsUsageDescription": "To add contacts to expenses",
+          "NSFaceIDUsageDescription": "For quick access to the application",
+          "NSLocationWhenInUseUsageDescription": "To mark your property's location on the map",
+          "NSMicrophoneUsageDescription": "To use voice input and record audio",
+          "NSMotionUsageDescription": "To build routes around the city using the map",
+          "NSPhotoLibraryAddUsageDescription": "To save images to the gallery",
+          "NSPhotoLibraryUsageDescription": "To save images to the gallery",
+          "NSSpeechRecognitionUsageDescription": "To use voice search"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Terraria",
+      "bundleIdentifier": "com.505games.terraria",
+      "marketplaceID": "",
+      "developerName": "505 Games Srl",
+      "subtitle": "Terraria",
+      "localizedDescription": "КОПАЙТЕ! СРАЖАЙТЕСЬ! ИССЛЕДУЙТЕ! СТРОЙТЕ! Присоединитесь к сообществу из миллионов террарианцев!\n\n\nВЕРСИЯ TERRARIA ДЛЯ МОБИЛЬНЫХ ПОЛНОСТЬЮ ПЕРЕРАБОТАНА: НОВОЕ И УЛУЧШЕННОЕ ОБНОВЛЕНИЕ 1.4.4, КУДА ВХОДИТ ДОПОЛНЕНИЕ «ЛЮБОВЬ К РАБОТЕ»!\n\n\n«Это полная версия игры Terraria, переработанная для мобильных устройств... Если вам нравилось играть в нее на компьютере или консолях, то вы оцените и эту версию». Slide To Play\n\n\nЦелый мир на кончиках ваших пальцев! Сражайтесь за выживание, богатство и славу. Исследуйте бескрайние просторы, испытайте свою доблесть в бою или постройте собственный город — в мире Terraria выбор за вами!\n\n\nМы рекомендуем устройства не старше 2014 года с 2 ГБ оперативной памяти. Мы поддерживаем устройства на Android 5.0 с 1 ГБ оперативной памяти и совместимой графикой, но на таких устройствах производительность может быть снижена.\n\n• МНОГОПОЛЬЗОВАТЕЛЬСКАЯ ИГРА — играйте с друзьями числом до 7 человек по локальному Wifi, онлайн через Wifi типа устройство-устройство или через выделенный сервер Mobile Terraria для ПК (доступен бесплатно на сайте Terraria.org)\n• ПЕРЕОСМЫСЛЕНИЕ TERRARIA ДЛЯ МОБИЛЬНЫХ УСТРОЙСТВ — полностью настраиваемое управление и интерфейс пользователя обеспечивают непревзойденную безупречность и невиданные возможности!\n• Поддержка геймпада с полностью перенастраиваемыми кнопками - Играйте на геймпаде, подключенном через Bluetooth (если он поддерживается).\n• Всё разнообразие миров: маленькие, средние и большие... те же разметы, что и в Terraria для ПК! Добавлен генератор случайных имен для миров и возможность использовать семена миров (среди которых есть и спрятанные пасхалки)\n• Более 400 врагов, которых можно победить и разграбить\n• Более 20 биомов и мини-биомов. Исследуйте их как над, так и под землей: от зеленых лесов и бесплодных пустынь до подземелий, подземного мира и ужасающей Скверны!\n• Обновленная система ремесла с расширенным ассортиментом предметов\n• Более 20 неигровых персонажей, каждый со своими бонусами и уникальным стилем\n• Простая в освоении система строительства, в руках мастера позволяющая создавать выдающиеся шедевры архитектуры.\n• И многое, многое другое!\n\nЕсли вкратце, каждый пиксель Terraria был переосмыслен и вручную воссоздан, чтобы подарить игрокам самую лучшую игру для мобильных устройств!\nЧитайте нас в Twitter @Terraria_Logic и @505_Games\n\n\nПрисоединитесь к сообществу в Discord @ http://Discord.GG/Terraria\n\n\nСтавьте «лайки» в Facebook на www.facebook.com/TerrariaOfficial и https://www.facebook.com/505Games\n\n\nПосетите наш веб-сайт www.terraria.org\n\n\nПрисоединитесь к официальным форумам Terraria Forums: https://forums.terraria.org/",
+      "iconURL": "https://i.imgur.com/JoaI9N4.png",
+      "tintColor": "#7ca0cc",
+      "category": "games",
+      "screenshots": [
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/O-Dr8ayJoCl8vELdlrdzTJqIupxNj-zsJq7-gu19A1nr3y-Zw4BkWhZhCNAjL-RaxQ=w526-h296-rw",
+          "width": 526,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/VAxJd3C0F94AfzNtwtE6SJK7bMgJDIRn8uSdFiGMRDrrmmdJuLKMUMUU5-WuD3eoZWM=w526-h296-rw",
+          "width": 526,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/-YZJfDVZ8u8ZCUYlDTBC0ueRYIO4z50VLdSDirr-kXIT6Qwrw7gmeqhpEvdSaCJqV-U=w526-h296-rw",
+          "width": 526,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/0l4UZcSUn8vtcfskPS9hN0Nb4gV14TNsUHLei56QxYax3VhqqzY9QuH5T9U18-SC7Gw=w526-h296-rw",
+          "width": 526,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/hsqG7bRnomjcA15KLDbP8u8IxxrkRzX9ifuYjtpjKS_I_CwsSMbFeNAsjzhAUy6VcK4=w526-h296-rw",
+          "width": 526,
+          "height": 296
+        },
+        {
+          "imageURL": "https://play-lh.googleusercontent.com/NpMliVjbQx0qLgZHLk0YHaxdjTaLEzxbCxoAOsGJbzYmsCN7ZFBSBWHDHF4tqCqsx84=w526-h296-rw",
+          "width": 526,
+          "height": 296
+        }
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/IPAS/Terraria-v4-4-14.ipa",
+          "size": 160100000,
+          "version": "1.4.4.14",
+          "buildVersion": null,
+          "date": "2026-01-11T15:43:00+03:00",
+          "localizedDescription": "bug fixes",
+          "minOSVersion": null
+        },
+        {
+          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/IPAS/Terraria-v4-4-14.ipa",
+          "size": 160100000,
+          "version": "1.4.4.14",
+          "buildVersion": "141414",
+          "date": "2026-01-11T15:43:00+03:00",
+          "localizedDescription": "bug fixes!",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "Mojang",
+      "subtitle": "Minecraft Bedrock [IOS]",
+      "localizedDescription": "СОЗДАВАЙТЕ\nДайте волю фантазии и стройте все, что хотите, в собственном бесконечном уникальном мире, который каждый раз будет совершенно новым.\nИССЛЕДУЙТЕ\nИзучайте биомы, ресурсы и мобов. Путешествуйте по миру, полному неожиданностей, в идеальной игре-песочнице.\n\nВЫЖИВАЙТЕ\nВас ждут незабываемые приключения, схватки с таинственными врагами, путешествия по потрясающим местам и в опасных измерениях.\n\nИГРАЙТЕ ВМЕСТЕ\nПроведите время с друзьями, играя на любой платформе: консоли, мобильном устройстве, ПК. Объединитесь с миллионами игроков на серверах сообщества или подпишитесь на Realms Plus, чтобы играть с 10 друзьями на собственном частном сервере.\n\nПОЛУЧАЙТЕ БОЛЬШЕ ВПЕЧАТЛЕНИЙ\nПриобретайте авторские дополнения, захватывающие миры и стильные декоративные элементы на Minecraft Marketplace. Оформите подписку на Marketplace Pass (или Realms Plus) и получите более 150 ежемесячно обновляемых наборов с мирами, скинами и текстурами, а также многим другим.\n\nПОДДЕРЖКА: https://www.minecraft.net/help\nПОДРОБНЕЕ: https://www.minecraft.net/\n\nМИНИМАЛЬНЫЕ РЕКОМЕНДУЕМЫЕ ХАРАКТЕРИСТИКИ\n\nЧтобы узнать требования к вашему устройству, посетите: https://help.minecraft.net/hc/en-us/articles/4409172223501",
+      "iconURL": "https://i.imgur.com/cy2D3Dg.png",
+      "tintColor": "#58ac3b",
+      "category": "games",
+      "screenshots": {
+        "iphone": [
+          {
+            "imageURL": "https://img.ipa4fun.com/88/c5/88/479516143-screenshot-1.webp",
+            "width": 728,
+            "height": 336
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/9a/1b/bb9a1b9c-3727-2e06-ae5a-6cf5ec4fd8f4/pr_source.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 946
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/00/cb/0e00cb55-eb11-bb94-7cae-1eabef802fdd/pr_source.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 946
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/92/f6/7892f6b1-02b2-4f28-e992-2b5c898263f0/pr_source.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 946
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/23/38/4f2338d8-cac4-8810-5096-084c217a4071/bc9b55ff-4ebf-4254-ad8a-133eac2122bf_TrailsAndTales_Apple_2688x1242_EN.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 946
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/cb/19/decb199b-8f87-15da-5b0d-06d9e67a0a45/pr_source.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 946
+          }
+        ],
+        "ipad": [
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/1f/b1/9a1fb145-b244-948c-45dc-148f396e1349/pr_source.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 1535
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dc/8b/2e/dc8b2e9f-be27-72ab-07f7-0ef8c79ede8d/pr_source.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 1535
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/0c/be/db0cbe60-4bde-9351-b676-25f03a24125f/pr_source.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 1535
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/91/a7/f591a727-94bf-3699-1497-76be296d9946/pr_source.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 1535
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1c/de/c8/1cdec888-7b73-9010-13c5-30eba8242ff0/pr_source.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 1535
+          },
+          {
+            "imageURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ab/ac/f0/abacf060-78b3-bb55-cf16-609265be576a/d7857714-6b1b-4426-8e20-1b74f558b93b_LushCaves_2732x2048_GB.png/2048x0w.jpg",
+            "width": 2048,
+            "height": 1535
+          }
+        ]
+      },
+      "versions": [
+        {
+          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/IPAS/Minecraft_v1.21.120_iosvizor_.ipa",
+          "size": 594800000,
+          "version": "1.21.120",
+          "buildVersion": "121120",
+          "date": "2026-01-11T15:32:00+03:00",
+          "localizedDescription": "bug fix.",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMainNibFile": "MainWindow",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "New Repo by .deadlonely",
+      "identifier": "news_6zqcz8r45f",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2026-01-11T13:47",
+      "tintColor": "#1400ff",
+      "imageURL": "https://avatars.githubusercontent.com/u/250387405?s=400&u=9e0aec13cb369e8dadc5f84d4f625b2b6558d108&v=4",
+      "notify": true,
+      "url": "",
+      "appID": "com.apple.Leontap"
+    }
+  ]
+}
