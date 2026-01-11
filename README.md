@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="sidestore://add-repo?url=https://raw.githubusercontent.com/deadlonely/Altrepo/main/repo.json">
+  <a href="https://tinyurl.com/SIDESTOREREPOTISORITYDEVDEAD">
     <img src="https://img.shields.io/badge/Add%20to-SideStore-8b5cf6?style=for-the-badge&logo=apple" />
   </a>
 </p>
