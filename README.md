@@ -55,4 +55,14 @@
 ### Вручную:
 1. Открой **SideStore**
 2. Sources → Add Source
-3. Вставь:
+3. Вставь:https://raw.githubusercontent.com/deadlonely/Altrepo/main/repo.json
+
+---
+
+## 🩸 Автор
+
+- GitHub: [deadlonely](https://github.com/deadlonely)
+
+<p align="center">
+  <sub>stay lonely · stay free</sub>
+</p>
