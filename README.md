@@ -1,11 +1,13 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000" width="120" style="border-radius:50%;" />
+  <img src="https://pin.it/4PtFtrX4s" width="120" style="border-radius:50%;" />
 </p>
 
-<h1 align="center">Altrepo</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deadlonely/Altrepo/main/assets/altrepo-logo.png" width="420" />
+</p>
 
 <p align="center">
-  <i>lonely apps. silent tweaks. clean repo.</i>
+  <i>lonely apps · silent tweaks · clean repo</i>
 </p>
 
 <p align="center">
@@ -17,19 +19,19 @@
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/deadlonely/Altrepo?style=flat-square&color=8b5cf6" />
   <img src="https://img.shields.io/github/repo-size/deadlonely/Altrepo?style=flat-square&color=8b5cf6" />
-  <img src="https://img.shields.io/badge/Apps-Tweaked%20%26%20Games-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/status-active-8b5cf6?style=flat-square" />
 </p>
 
 ---
 
 ## 🕷️ О репозитории
 
-**Altrepo** — альтернативный репозиторий для **SideStore**,  
-созданный для тех, кто устал от мусора и кривых IPA.
+**Altrepo** — альтернативный репозиторий приложений для **SideStore**.  
+Создан без мусора, без копий и без хаоса.
 
-> минимум слов  
-> максимум контроля  
-> никакого шума  
+> тишина  
+> контроль  
+> одиночество  
 
 ---
 
@@ -37,26 +39,35 @@
 
 - 🖤 Tweaked приложения (TikTok++, utils)
 - 🎮 Игры (Minecraft, Terraria, Geometry Dash)
-- 🧩 Полезные системные утилиты
-- ⚡ Регулярные обновления
+- 🧩 Полезные утилиты
+- ⚡ Быстрые и чистые обновления
 
-Все приложения:
-- без лишней рекламы  
-- проверены перед публикацией  
-- готовы к установке через SideStore  
+Каждый IPA:
+- проверяется  
+- не содержит лишней рекламы  
+- готов к установке через SideStore  
 
 ---
 
-## ➕ Как добавить в SideStore
+## 🖼️ Превью
 
-### В один клик:
-👉 **нажми кнопку выше**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/deadlonely/Altrepo/main/assets/preview1.png" width="240" />
+  <img src="https://raw.githubusercontent.com/deadlonely/Altrepo/main/assets/preview2.png" width="240" />
+</p>
 
-### Вручную:
+---
+
+## ➕ Как добавить репозиторий
+
+### 📲 Автоматически (рекомендуется)
+Нажми кнопку **Add to SideStore** выше  
+(работает с iPhone / iPad)
+
+### 🛠 Вручную
 1. Открой **SideStore**
 2. Sources → Add Source
-3. Вставь:https://raw.githubusercontent.com/deadlonely/Altrepo/main/repo.json
-
+3. Вставь: https://raw.githubusercontent.com/deadlonely/Altrepo/main/repo.json
 ---
 
 ## 🩸 Автор
