@@ -3,38 +3,38 @@
   "subtitle": "cheats and apps",
   "description": "",
   "iconURL": "https://avatars.githubusercontent.com/u/250387405?s=400&u=9e0aec13cb369e8dadc5f84d4f625b2b6558d108&v=4",
-  "website": "",
+  "website": "https://github.com/deadlonely",
   "patreonURL": "",
   "tintColor": "#1400ff",
-  "featuredApps": [
-    "com.apple.Leontap"
-  ],
+  "featuredApps": [],
   "headerURL": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8507a785836409.5d884b6e92f33.png",
   "apps": [
     {
       "name": "Leontap",
       "bundleIdentifier": "com.apple.Leontap",
-      "marketplaceID": "123123",
-      "developerName": "LeonTap ",
-      "subtitle": "LeonTap",
-      "localizedDescription": "Leontap cheat for SO2 (JIT needed)",
-      "iconURL": "https://i.imgur.com/hPHHbFX.png",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/pv2CbSR.png",
       "tintColor": "#194ce5",
-      "category": "games",
+      "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/Leontap-1.ipa",
+          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/IPAS/LeonTap/Leontap-1.ipa",
           "size": 27900000,
           "version": "1.0",
-          "buildVersion": "001",
-          "date": "2026-01-11T10:42:00+03:00",
-          "localizedDescription": "release",
-          "minOSVersion": null
+          "buildVersion": "1",
+          "date": "2026-01-11T11:27:00+03:00",
+          "localizedDescription": "bug fix.",
+          "minOSVersion": "16.0"
         }
       ],
       "appPermissions": {
-        "entitlements": [],
+        "entitlements": [
+          ""
+        ],
         "privacy": {
           "NSPhotoLibraryUsageDescription": "Custom application icon",
           "NSPrincipalClass": "HUDMainApplication"
