@@ -1,0 +1,59 @@
+{
+  "name": "deadlonely",
+  "subtitle": "cheats and apps",
+  "description": "",
+  "iconURL": "https://avatars.githubusercontent.com/u/250387405?s=400&u=9e0aec13cb369e8dadc5f84d4f625b2b6558d108&v=4",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#1400ff",
+  "featuredApps": [
+    "com.apple.Leontap"
+  ],
+  "headerURL": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/8507a785836409.5d884b6e92f33.png",
+  "apps": [
+    {
+      "name": "Leontap",
+      "bundleIdentifier": "com.apple.Leontap",
+      "marketplaceID": "123123",
+      "developerName": "LeonTap ",
+      "subtitle": "LeonTap",
+      "localizedDescription": "Leontap cheat for SO2 (JIT needed)",
+      "iconURL": "https://i.imgur.com/hPHHbFX.png",
+      "tintColor": "#194ce5",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/deadlonely/Altrepo/blob/main/Leontap-1.ipa",
+          "size": 27900000,
+          "version": "1.0",
+          "buildVersion": "001",
+          "date": "2026-01-11T10:42:00+03:00",
+          "localizedDescription": "release",
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "Custom application icon",
+          "NSPrincipalClass": "HUDMainApplication"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "New Repo by .deadlonely",
+      "identifier": "news_6zqcz8r45f",
+      "caption": "Introducing a new feature in AltStore!",
+      "date": "2026-01-11T13:47",
+      "tintColor": "#1400ff",
+      "imageURL": "https://avatars.githubusercontent.com/u/250387405?s=400&u=9e0aec13cb369e8dadc5f84d4f625b2b6558d108&v=4",
+      "notify": true,
+      "url": "",
+      "appID": "com.apple.Leontap"
+    }
+  ]
+}
