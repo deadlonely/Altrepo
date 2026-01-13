@@ -1,78 +1,113 @@
 {
   "name": "deadlonely",
-  "identifier": "net.deadlonely.altrepo",
+  "subtitle": "Games and essential apps",
+  "description": "Independent AltStore & SideStore repository focused on games and essential applications.",
   "iconURL": "https://avatars.githubusercontent.com/u/250387405?s=400",
   "website": "https://github.com/deadlonely",
+  "tintColor": "#1400ff",
+
+  "featuredApps": [
+    "com.mojang.minecraftpe",
+    "com.505games.terraria",
+    "com.robtop.geometryjump",
+    "com.zhiliaoapp.musically"
+  ],
+
   "apps": [
     {
       "name": "TikTok++",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "developerName": "deadlonely",
-      "version": "41.4.0",
-      "versionDate": "2026-01-11",
-      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/TikTokTikTok.ipa",
-      "localizedDescription": "TikTok without ads and with extra features",
+      "developerName": "ByteDance",
+      "subtitle": "Ad-free TikTok",
+      "localizedDescription": "TikTok++ — модифицированная версия TikTok с расширенными возможностями.\n\nОсновные функции:\n• Полное отсутствие рекламы\n• Скачивание видео без водяных знаков\n• Скачивание музыки\n• Копирование ссылок и описаний\n• Скрытие элементов интерфейса\n\nДополнительно:\n• Изменение региона\n• Фейковая галочка верификации\n• Фейковое количество подписчиков\n• Блокировка приложения кодом\n\nПримечание:\nПриложение предназначено для тестирования и личного использования.",
       "iconURL": "https://i.imgur.com/PWIM8X4.png",
-      "size": 315600000,
-      "minOSVersion": "12.0"
+      "category": "social",
+      "versions": [
+        {
+          "version": "41.4.0",
+          "date": "2026-01-11T15:44:00+03:00",
+          "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/TikTokTikTok.ipa",
+          "size": 315600000,
+          "minOSVersion": "12.0",
+          "localizedDescription": "Bug fixes and performance improvements."
+        }
+      ]
     },
+
     {
       "name": "Geometry Dash",
       "bundleIdentifier": "com.robtop.geometryjump",
-      "developerName": "RobTop",
-      "version": "2.207",
-      "versionDate": "2026-01-11",
-      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Geometry-Dash-v2-207.ipa",
-      "localizedDescription": "Rhythm-based platformer",
+      "developerName": "RobTop Games",
+      "subtitle": "Rhythm-based platformer",
+      "localizedDescription": "Geometry Dash — ритмичный платформер с высокой сложностью.\n\nОсобенности:\n• Полная версия без покупок\n• Все уровни доступны\n• Оффлайн игра\n• Высокая производительность\n\nПодходит для устройств iOS 12+.",
       "iconURL": "https://i.imgur.com/D9JjljH.png",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/QPS_wlJHQgy3G6KgWAcjjoXKOWJURujcw0LK70mzqBOCtFxoz0LSscWgoy0IYH97Dg=w526-h296-rw",
-        "https://play-lh.googleusercontent.com/sq0hNhqNiuA6j0JW5nMOQCv_wJ6XBq1KpeMNkPN6TsGrrYNsaPrfZ-GiOkk1ap4SqBDA=w526-h296-rw",
-        "https://play-lh.googleusercontent.com/ys1QONuCD-Cn20E7qy03rrBAM5UE-PIUKnosWxYkJGnj2LROYAJ_5KZVv22UEKAbRDk=w526-h296-rw"
-      ],
-      "size": 159200000
+      "category": "games",
+      "versions": [
+        {
+          "version": "2.207",
+          "date": "2026-01-11T15:37:00+03:00",
+          "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Geometry-Dash-v2-207.ipa",
+          "size": 159200000
+        }
+      ]
     },
-    {
-      "name": "СберБанк Онлайн",
-      "bundleIdentifier": "com.digit.budg",
-      "developerName": "PAO SBERBANK",
-      "version": "17.0.0",
-      "versionDate": "2026-01-11",
-      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Online-17.0.0.ipa",
-      "localizedDescription": "СберБанк Онлайн official app",
-      "iconURL": "https://i.imgur.com/1SZGFLK.png",
-      "size": 294100000,
-      "minOSVersion": "12.0"
-    },
+
     {
       "name": "Terraria",
       "bundleIdentifier": "com.505games.terraria",
       "developerName": "505 Games",
-      "version": "1.4.4.14",
-      "versionDate": "2026-01-11",
-      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Terraria-v4-4-14.ipa",
-      "localizedDescription": "Sandbox adventure game",
+      "subtitle": "Sandbox adventure",
+      "localizedDescription": "Terraria — легендарная песочница с исследованиями и сражениями.\n\nВозможности:\n• Полная версия игры\n• Многопользовательский режим\n• Поддержка контроллеров\n• Огромный открытый мир\n\nРекомендуется iOS 12+.",
       "iconURL": "https://i.imgur.com/JoaI9N4.png",
-      "screenshots": [
-        "https://play-lh.googleusercontent.com/O-Dr8ayJoCl8vELdlrdzTJqIupxNj-zsJq7-gu19A1nr3y-Zw4BkWhZhCNAjL-RaxQ=w526-h296-rw",
-        "https://play-lh.googleusercontent.com/VAxJd3C0F94AfzNtwtE6SJK7bMgJDIRn8uSdFiGMRDrrmmdJuLKMUMUU5-WuD3eoZWM=w526-h296-rw"
-      ],
-      "size": 160100000
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.4.4.14",
+          "date": "2026-01-11T15:43:00+03:00",
+          "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Terraria-v4-4-14.ipa",
+          "size": 160100000
+        }
+      ]
     },
+
     {
       "name": "Minecraft",
       "bundleIdentifier": "com.mojang.minecraftpe",
       "developerName": "Mojang",
-      "version": "1.21.120",
-      "versionDate": "2026-01-11",
-      "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Minecraft_v1.21.120_iosvizor_.ipa",
-      "localizedDescription": "Minecraft Bedrock Edition",
+      "subtitle": "Minecraft Bedrock Edition",
+      "localizedDescription": "Minecraft Bedrock Edition для iOS.\n\nВозможности:\n• Полная версия игры\n• Поддержка серверов и Realms\n• Кроссплатформенная игра\n• Поддержка контроллеров\n\nРекомендуется:\n• iOS 13+\n• Не менее 2 ГБ ОЗУ.",
       "iconURL": "https://i.imgur.com/cy2D3Dg.png",
-      "screenshots": [
-        "https://img.ipa4fun.com/88/c5/88/479516143-screenshot-1.webp",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/9a/1b/bb9a1b9c-3727-2e06-ae5a-6cf5ec4fd8f4/pr_source.png/2048x0w.jpg"
-      ],
-      "size": 594800000
+      "category": "games",
+      "versions": [
+        {
+          "version": "1.21.120",
+          "buildVersion": "121120",
+          "date": "2026-01-11T15:32:00+03:00",
+          "downloadURL": "https://raw.githubusercontent.com/deadlonely/Altrepo/main/IPAS/Minecraft_v1.21.120_iosvizor_.ipa",
+          "size": 594800000
+        }
+      ]
+    }
+  ],
+
+  "news": [
+    {
+      "title": "Altrepo is now live",
+      "identifier": "news_altrepo_launch",
+      "caption": "New independent repository for AltStore & SideStore",
+      "date": "2026-01-11T13:47:00+03:00",
+      "tintColor": "#1400ff",
+      "notify": true,
+      "body": "Altrepo is a new independent repository focused on games and essential applications.\n\n• Clean IPA files\n• Manual testing before release\n• No ads inside apps\n\nMore applications and updates will be added soon."
+    },
+    {
+      "title": "First apps added",
+      "identifier": "news_first_apps",
+      "caption": "Minecraft, Terraria, Geometry Dash",
+      "date": "2026-01-11T16:00:00+03:00",
+      "tintColor": "#1400ff",
+      "notify": false,
+      "body": "The first set of applications has been added to the repository.\n\nIncluded:\n• Minecraft Bedrock Edition\n• Terraria\n• Geometry Dash\n\nMore apps coming soon."
     }
   ]
 }
